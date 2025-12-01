@@ -1,6 +1,6 @@
 ## EdgeSimPy + DDQN environment
-## Author: Farhad Kazemipour
-## Contact: evanescencefkz@gmail.com
+### Author: Farhad Kazemipour
+### Contact: evanescencefkz@gmail.com
 
 This repository contains:
 - A baseline EdgeSimPy scenario (`scenario_1cloud3edge.py`)
