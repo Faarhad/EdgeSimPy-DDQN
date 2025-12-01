@@ -1,0 +1,16 @@
+# Python cache and junk
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# Local logs / outputs (can be regenerated)
+logs/
+*.csv
+
+# External tutorial repo clone
+edgesimpy-tutorials/
+
+# VS Code settings (optional)
+.vscode/
